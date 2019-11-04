@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389831769067",
+    "firebase_url": "https://chatchatchatapp.firebaseio.com",
+    "project_id": "chatchatchatapp",
+    "storage_bucket": "chatchatchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389831769067:android:06a4129f582ecb155977ae",
+        "android_client_info": {
+          "package_name": "com.mesutdag.chatchatchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389831769067-cbca945hv7r2mfbktggqgaj5944noiu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mesutdag.chatchatchatapp",
+            "certificate_hash": "9c3314e9980b05e7619e7cead03e328321c5f921"
+          }
+        },
+        {
+          "client_id": "389831769067-pntfddfbnpng5ls4cgib5qtb92dtk7u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8SWE1O2iZmr9Iyv8RAo3uPV31DFjo8n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389831769067-pntfddfbnpng5ls4cgib5qtb92dtk7u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
